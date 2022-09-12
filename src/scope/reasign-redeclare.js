@@ -26,4 +26,4 @@ console.log(animal);/*  TypeError: Assignment to constant variable. */
 const animal = 'cat'; // Cannot redeclare block-scoped variable 'animal'
 
 const cars = [];
-cars.push("🚗")
+cars.push("🚗");
